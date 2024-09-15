@@ -34,5 +34,5 @@ Technologies and tools I use(d).
 ### Honorable mention
 ![](https://skillicons.dev/icons?i=wasm,raspberrypi,debian,ubuntu)
 
-### I'd like to try but I don't send some time on
+### I'd like to try but I don't spend some time on
 ![](https://skillicons.dev/icons?i=godot,go)
