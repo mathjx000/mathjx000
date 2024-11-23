@@ -17,7 +17,7 @@ Technologies and tools I use(d).
 ![](https://skillicons.dev/icons?i=blender)
 
 ### Skill issues only
-![](https://skillicons.dev/icons?i=html,css,cmake)
+![](https://skillicons.dev/icons?i=html,css)
 
 ### I used, without clear opinion
 ![](https://skillicons.dev/icons?i=vscodium,docker,nginx,opencv,qt,md,svg,postgres,mongodb,redis,arduino)
@@ -29,7 +29,7 @@ Technologies and tools I use(d).
 ![](https://skillicons.dev/icons?i=py,kotlin,js,ts,php,notion,figma)
 
 ### Burn them 💢
-![](https://skillicons.dev/icons?i=visualstudio,react,electron,gradle)
+![](https://skillicons.dev/icons?i=visualstudio,react,electron,gradle,cmake)
 
 ### Honorable mention
 ![](https://skillicons.dev/icons?i=wasm,raspberrypi,debian,ubuntu)
